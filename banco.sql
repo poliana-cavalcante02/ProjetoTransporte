@@ -18,7 +18,7 @@ CREATE TABLE usuario (
 -- ==========================
 -- TABELA PASSAGEIROS
 -- ==========================
-
+,,,,,
 CREATE TABLE passageiros (
     id INT AUTO_INCREMENT PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
