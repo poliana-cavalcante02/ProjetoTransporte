@@ -58,7 +58,7 @@ if(!isset($_SESSION['acesso']))
     .dropdown-menu{
       background:#111;
       border:1px solid #c53d9c;
-    }/
+    }
 
     .dropdown-item{
       color:#fff;
